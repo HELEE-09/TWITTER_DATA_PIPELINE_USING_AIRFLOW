@@ -58,7 +58,7 @@
 
 ---
 
-**Slide 9: Challenges Faced**
+**: Challenges Faced**
 
 * Twitter API rate limits
 * Docker and Airflow setup
@@ -67,7 +67,7 @@
 
 ---
 
-**Slide 10: Conclusion & Future Scope**
+**: Conclusion & Future Scope**
 
 * Project automates real-time tweet collection and storage
 * Scalable and reusable architecture
